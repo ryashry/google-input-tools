@@ -50,7 +50,7 @@
 }
 
 .inputview-suggest-inline-block {
-  display: inline-block;
+  display: inline-unblock;
 }
 
 .inputview-suggest-mark-window {
