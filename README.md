@@ -17,3 +17,4 @@ Under "client", it is open source'd Chinese Pinyin IME for Windows.
 Under "cloud", it is JS-based input tools.
 Currently there are only M17n keyboards which don't require a cloud service for suggestion decoding.
 
+detele this 
